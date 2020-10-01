@@ -24,3 +24,4 @@ The object that is considered here is "Strawberry :strawberry:".
 9. Convert back to original color scheme
 
 ### Output:
+<img src="https://github.com/Suhanip/Object-Detection-using-OpenCV/blob/master/original_image.jpg" width=200px height=200px><img src="https://github.com/Suhanip/Object-Detection-using-OpenCV/blob/master/detected_image.PNG" width=200px height=200px>
